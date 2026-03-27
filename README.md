@@ -23,3 +23,17 @@ and passing data between activities using Kotlin.
 - Language: Kotlin
 - UI: RecyclerView, CardView
 - Navigation: Android Intent
+
+## How to Run
+1. Clone this repository
+2. Open in Android Studio (Hedgehog or later)
+3. Let Gradle sync
+4. Run on emulator or physical device (API 24+)
+
+## Git Workflow
+- 5 Pull Requests merged into main
+- 8 commits with descriptive messages
+- Feature branch strategy used throughout
+
+## Screenshots
+*(Add screenshots here after running the app)*

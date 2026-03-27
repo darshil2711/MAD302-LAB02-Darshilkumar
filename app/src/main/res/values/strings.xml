@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Product Store</string>
+    <string name="product_list_hint">Tap a product to view details</string>
+    <string name="detail_description_label">Product Description</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="back_button">← Back</string>
+    <string name="error_product_not_found">Error: Product data not found.</string>
+</resources>
