@@ -1,0 +1,9 @@
+<resources>
+    <!-- App theme with no action bar (we use a custom header) -->
+    <style name="Theme.Lab02" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#4F46E5</item>
+        <item name="colorPrimaryVariant">#3730A3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#3730A3</item>
+    </style>
+</resources>
